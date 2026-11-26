@@ -1,0 +1,40 @@
+ATTENDANCE PUNCH AUDIT REPORT
+=============================================
+
+Total Rows       : 5
+Clean Rows       : 0
+Duplicate Count  : 0
+Suspicious Count : 0
+Rejected Count   : 5
+
+EMPLOYEE-WISE SUMMARY
+---------------------------------------------
+
+Employee: E-02
+  Clean       : 0
+  Duplicate   : 0
+  Suspicious  : 0
+  Rejected    : 1
+
+Employee: E101
+  Clean       : 0
+  Duplicate   : 0
+  Suspicious  : 0
+  Rejected    : 3
+
+Employee: E104
+  Clean       : 0
+  Duplicate   : 0
+  Suspicious  : 0
+  Rejected    : 1
+
+DUPLICATE RECORD DETAILS
+
+SUSPICIOUS RECORD DETAILS
+
+REJECTED RECORD DETAILS
+E101 - Blank required field
+E101 - Blank required field
+E101 - Blank required field
+E-02 - Blank required field
+E104 - Blank required field
